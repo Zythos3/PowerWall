@@ -11,16 +11,16 @@
     #00ff7f}
 }
 @-webkit-keyframes pulseHome {
-    0% { box-shadow: 0 0 8px #000080, inset 0 0 8px
+    0% { box-shadow: 0 0 8px orange, inset 0 0 8px
 
-    #000080;}
-    50% { box-shadow: 0 0 16px #000080, inset 0 0 14px
+    orange;}
+    50% { box-shadow: 0 0 16px orange, inset 0 0 14px
 
-    #000080;}
+    orange;}
     
-    100% { box-shadow: 0 0 8px #000080, inset 0 0 8px
+    100% { box-shadow: 0 0 8px orange, inset 0 0 8px
 
-    #000080}
+    orange}
 }
 @-webkit-keyframes pulsePV {
     0% { box-shadow: 0 0 8px #ffff00, inset 0 0 8px
